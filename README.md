@@ -1,5 +1,5 @@
 # PubChem
-Retrieve bioactivity data from PubChem by given assay IDs
+Bash script for retrieving bioactivity data from PubChem by given assay IDs
 
 ## Prepare assay ID list
 ID can be retrieved via https://www.ncbi.nlm.nih.gov/pcassay/limits
