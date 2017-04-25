@@ -1,9 +1,9 @@
 #!/bin/bash
 ## Download PubChem data by given assay IDs, one ID per line
-# $1: confirmatory_single_target_assay_ID_list.txt as well as primary-screening.single_target_assay_ID_list.txt
+# $1: confirmatory_single_target_assay_ID_list.txt
 # ID can be retrieved via https://www.ncbi.nlm.nih.gov/pcassay/limits
 # $2: output dir
-# e.g. sh step1.sh confirmatory_single_target_assay_ID_list.txt outdir and sh step1.sh screening_single_target_assay_ID_list.txt outdir2
+# e.g. sh step1.sh confirmatory_single_target_assay_ID_list.txt outdir
 # you can split single ID_list into multi files as well
 # contact Jiangming.Sun at astrazeneca.com for more details
 
